@@ -62,7 +62,7 @@ Here is how we manage our project.
 We pick the critical issues to work on from [GitHub issues](https://github.com/keras-team/autokeras/issues).
 They will be added to this [Project](https://github.com/keras-team/autokeras/projects/3).
 Some of the issues will then be added to the [milestones](https://github.com/keras-team/autokeras/milestones),
-which are used to plan for the releases.
+which are used to plan for the releases
 
 Refer to our [Contributing Guide](https://autokeras.com/contributing/) to learn the best practices.
 
